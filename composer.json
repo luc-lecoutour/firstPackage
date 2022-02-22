@@ -1,11 +1,11 @@
 {
-    "name": "luc/tuto",
+    "name": "luc34/tuto",
     "description": "un putain de projet de FDP en composer",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Luc\\Tuto\\": "src/"
+            "Luc34\\Tuto\\": "src/"
         }
     },
     "authors": [

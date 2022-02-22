@@ -1,5 +1,5 @@
 <?php
-namespace Luc\Tuto;
+namespace Luc34\Tuto;
 
 class Inspire{
     public $tab=[
