@@ -1,0 +1,19 @@
+{
+    "name": "luc/tuto",
+    "description": "un putain de projet de FDP en composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Luc\\Tuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luc-lecoutour",
+            "email": "77966986+luc-lecoutour@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
